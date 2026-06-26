@@ -169,7 +169,7 @@
 <td style="border:none; padding:10px; width:50%; vertical-align:top;">
 <div style="border:2px solid #f59e0b; border-radius:12px; overflow:hidden;">
 <div style="background:#f59e0b; color:#fff; padding:8px 12px; font-size:13px; font-weight:600;">模型输出 · 轨迹形状理解错误</div>
-<img src="错误案例图片/Pasted%20image%2020260626220425.png" alt="模型错误-轨迹" style="width:100%; display:block;"/>
+<img src="错误案例图片/case1-trajectory.png" alt="模型错误-轨迹" style="width:100%; display:block;"/>
 </div>
 </td>
 </tr>
@@ -193,7 +193,7 @@
 <td style="border:none; padding:10px; vertical-align:top;">
 <div style="border:2px solid #ef4444; border-radius:12px; overflow:hidden;">
 <div style="background:#ef4444; color:#fff; padding:8px 12px; font-size:13px; font-weight:600;">模型输出 · 点位空间位置识别错误</div>
-<img src="错误案例图片/Pasted%20image%20202606220748.png" alt="模型错误-点位" style="width:100%; display:block;"/>
+<img src="错误案例图片/case2-position.png" alt="模型错误-点位" style="width:100%; display:block;"/>
 </div>
 </td>
 </tr>
@@ -217,7 +217,7 @@
 <td style="border:none; padding:10px; vertical-align:top;">
 <div style="border:2px solid #f59e0b; border-radius:12px; overflow:hidden;">
 <div style="background:#f59e0b; color:#fff; padding:8px 12px; font-size:13px; font-weight:600;">模型输出 · 凸液面 / 凹液面理解错误</div>
-<img src="错误案例图片/Pasted%20image%2020260626221129.png" alt="模型错误-液面" style="width:100%; display:block;"/>
+<img src="错误案例图片/case3-meniscus.png" alt="模型错误-液面" style="width:100%; display:block;"/>
 </div>
 </td>
 </tr>
